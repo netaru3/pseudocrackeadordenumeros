@@ -1,4 +1,5 @@
-IMPORTANTE: El "creackeador" no se ejecuta en segundo plano, si quieres una forma fácil de usarlo, úsalo diviendo la pantalla
+IMPORTANTE: El "creackeador" no se ejecuta en segundo plano, si quieres una forma fácil de usarlo, úsalo diviendo la pantalla.
+
 Este probablemente sea mi último mini proyecto de JS, empezaré a aprender node.js en nada, así que adios proyectos con JS vanilla.
 
 FUERA DE ESO, que aprendí con este proyecto? Que javascript no permite números con 0 a la izquierda, me comí la cabeza durante horas para intentar que lo permitiera, pero no se pudo D;
