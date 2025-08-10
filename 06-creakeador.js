@@ -6,5 +6,6 @@ else if(contraseña>=0){document.getElementById("crakeo").textContent='su contra
     let tiempototal=fecha2-fecha1
 document.getElementById("tiempo").textContent="el tiempo que demoró crakearlo fue:" +tiempototal +"ms "+"o "+(fecha2-fecha1)/1000+"sg"
 clearInterval(id);return i}; 
-}, 7);}
+}, 4);}
+
 
