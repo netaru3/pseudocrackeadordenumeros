@@ -1,4 +1,4 @@
-IMPORTANTE: El "creackeador" no se ejecuta en segundo plano, si quieres una forma fácil de usarlo, úsalo diviendo la pantalla.
+IMPORTANTE: El "creackeador" no se ejecuta en segundo plano y no funciona con números con coma, si quieres una forma fácil de usarlo, úsalo diviendo la pantalla.
 
 Este probablemente sea mi último mini proyecto de JS, empezaré a aprender node.js en nada, así que adios proyectos con JS vanilla.
 
